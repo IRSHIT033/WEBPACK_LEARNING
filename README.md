@@ -13,7 +13,7 @@ To fix these issues webpack was created.</p>
   
 # GET started with webpack 
   first clone my repo and write in terminal.
-    <p> 'npm install' </p>
+    <p> ` npm install ` </p>
     
     
      
