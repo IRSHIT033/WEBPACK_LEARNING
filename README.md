@@ -16,6 +16,6 @@ To fix these issues webpack was created.</p>
    
    step 1:
      go to the terminal and write. 
-       <code>npm init</code>
+       `npm init`
    
    First you have to install 
