@@ -11,4 +11,11 @@ To fix these issues webpack was created.</p>
 ## After WEBPACK
  <p> Webpack goes through your package and creates A dependency graph which consists of various modules which your webapp would require to function as expected.Then it creates a new package which consists of very bare minimum of files required, a single bundle.js file.</p>
   
-  
+
+## Get started with webpack (U can skip this if you clone my repo and run "npm init" after that "npm install ")
+   
+   step 1:
+     go to the terminal and write 
+       <code>npm init</code>
+   
+   First you have to install 
