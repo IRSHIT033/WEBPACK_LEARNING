@@ -18,4 +18,8 @@ To fix these issues webpack was created.</p>
      go to the terminal and write. 
        <p> `npm init` </p>
    
-   First you have to install 
+   First you have to install webpack esential packages 
+     <p> `npm i webpack webpack-dev-server webpack-cli --save--dev` </p>
+    
+    
+     
