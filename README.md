@@ -1,4 +1,4 @@
-![image](https://raw.githubusercontent.com/webpack/media/master/logo/logo-on-white-bg.png)
+![image](https://raw.githubusercontent.com/webpack/media/master/logo/logo-on-dark-bg.png)
 
 ### What is WEBPACK ?
 
