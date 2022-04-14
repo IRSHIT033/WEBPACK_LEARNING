@@ -20,6 +20,16 @@ To fix these issues webpack was created.</p>
    
    First you have to install webpack esential packages 
      <p> `npm i webpack webpack-dev-server webpack-cli --save--dev` </p>
+   
+  First create a webpack.config.js in your main folder in this file we write all the configuration code for webpack.
+  
+  #Entry
+  
+  
+   
+   Loaders all  
+     
+    many of the old browsers doesnot understand 
     
     
      
