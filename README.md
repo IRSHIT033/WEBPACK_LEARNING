@@ -14,6 +14,11 @@ To fix these issues webpack was created.</p>
 # GET started with webpack 
   first clone my repo and write in terminal.
     <p> ` npm install ` </p>
+    After this 
+    <p> `npm run build ` </p>
+    for bundling js files
+     <p> `npm run dev ` </p>
+    for running our web app 
     
     
      
