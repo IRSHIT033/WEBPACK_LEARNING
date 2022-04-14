@@ -1,6 +1,6 @@
 ![image](https://raw.githubusercontent.com/webpack/media/master/logo/logo-on-dark-bg.png)
 
-### What is WEBPACK ?
+# What is WEBPACK ?
 
 <p>webpack is a static module bundler for modern JavaScript applications. When webpack processes your application, it internally builds a dependency graph from one or more entry points and then combines every module your project needs into one or more bundles, which are static assets to serve your content from.</p>
 
@@ -23,7 +23,7 @@ To fix these issues webpack was created.</p>
    
   First create a webpack.config.js in your main folder in this file we write all the configuration code for webpack.
   
-  # Entry
+  ### Entry
   <p> An entry point indicates which module webpack should use to begin building out its internal dependency graph. Webpack will figure out which other modules and libraries that entry point depends on (directly and indirectly).<p>
  
  <p> `module.exports = {
