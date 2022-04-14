@@ -25,11 +25,15 @@ To fix these issues webpack was created.</p>
   
   ### Entry
   <p> An entry point indicates which module webpack should use to begin building out its internal dependency graph. Webpack will figure out which other modules and libraries that entry point depends on (directly and indirectly).<p>
- 
- <p> `module.exports = {
+
+ webpack.config.js
+ <p> 
+  <code>
+  module.exports = {
   entry: './path/to/my/entry/file.js',
 };
-` </p>
+</code>
+</p>
 
 
    
