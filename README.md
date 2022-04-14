@@ -11,7 +11,7 @@ To fix these issues webpack was created.</p>
 ## After WEBPACK
  <p> Webpack goes through your package and creates A dependency graph which consists of various modules which your webapp would require to function as expected.Then it creates a new package which consists of very bare minimum of files required, a single bundle.js file.</p>
   
-# GET started with webpack 
+# GET started with this webpack project
   first clone my repo and write in terminal.
     <p> ` npm install ` </p>
     After this 
